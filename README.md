@@ -1,6 +1,6 @@
 # Linux Commands & Cybersecurity Notes
 
-A collection of practical notes on Linux and cybersecurity, covering commands, concepts, troubleshooting, and useful resources. Built through hands-on practice and lessons learned along the way, with the aim of making these notes useful for anyone starting out.
+A collection of practical notes on Linux and cybersecurity, covering commands, concepts, and useful resources. Built through hands-on practice and lessons learned along the way, with the aim of making these notes useful for anyone starting out.
 
 
 ## Contents
@@ -16,9 +16,6 @@ A collection of practical notes on Linux and cybersecurity, covering commands, c
 | [07-package-management.md](./07-package-management.md) | `apt`, `dpkg`, `snap`, pip/venv, installing tools safely |
 | [08-filtering-searching.md](./08-filtering-searching.md) | `grep`, `find`, piping, redirection (`>`, `>>`) |
 | [09-services-daemons.md](./09-services-daemons.md) | `systemctl`, daemons vs services vs processes, SSH |
-| [10-troubleshooting-notes.md](./10-troubleshooting-notes.md) | Real errors I hit and how I actually fixed them |
-
-
 
 
 ## Learning Environment
